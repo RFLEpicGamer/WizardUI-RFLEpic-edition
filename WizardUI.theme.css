@@ -61,7 +61,7 @@
     --Primary: rgb(0 125 255);
     --text-link: var(--Primary);
     --text-shadow: rgb(0 0 0);
-    --Highlighted: rgba(117 76 205 / 50%);
+    --Highlighted: rgba(120 86 255 / 50%);
     --MessageHover: transparent;
     --Unread: rgb(255 255 255);
     --Hover: rgb(18 19 31 / 50%);
