@@ -58,14 +58,14 @@
     --ui-error: rgb(208, 34, 34);
 
     /* THEME COLORS */
-    --Primary: rgb(117 76 205);
+    --Primary: rgb(0 125 255);
     --text-link: var(--Primary);
     --text-shadow: rgb(0 0 0);
     --Highlighted: rgba(117 76 205 / 50%);
     --MessageHover: transparent;
     --Unread: rgb(255 255 255);
     --Hover: rgb(18 19 31 / 50%);
-    --Selected: rgb(56 33 146);
+    --Selected: rgb(120, 86, 255);
 
     /* BACKGROUNDS */
     --background: url(https://goldenlys.github.io/WizardUI/images/backgrounds/nebula.jpg);
