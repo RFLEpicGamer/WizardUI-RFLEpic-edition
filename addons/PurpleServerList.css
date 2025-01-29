@@ -115,12 +115,14 @@
 #app-mount .guilds_a4d4d9 .scroller_fea3ef,
 #app-mount .guilds_a4d4d9 .scroller_fea3ef {
     width: calc(var(--ServerSize) + 18px);
+    height: 100%;
     display: flex;
     flex-direction: column;
 }
 
 #app-mount .guilds_a4d4d9 .scroller_fea3ef>div:not([class]):not([style])>.wrapper_bc7085 .expandedFolderBackground_bc7085:not(.collapsed_bc7085)+.listItem_c96c45+ul {
     height: auto !important;
+    overflow: visible !important;
 }
 
 #app-mount .guilds_a4d4d9 .listItem_c96c45 .pill_f9623d,
@@ -180,4 +182,19 @@
     flex: 1 1 auto;
     margin: 6px 0px;
     border-radius: var(--Rounding);
+}
+
+.wrapper_c4cd66 {
+    top: 7.5px;
+}
+
+.tree_fea3ef {
+    display: flex;
+    align-items: center;
+}
+
+.footer_d71945 {
+    margin: 6px 0 6px 0;
+    width: auto;
+    padding: 0;
 }
